@@ -150,9 +150,8 @@ if __name__ == '__main__':
     # 获取公众号所有文章需要cookie和token信息，而fakeid是公众号的唯一标识，通过搜索公众号接口获取
     # freq control是请求频率
     wx_apis = WX_Apis()
-    cookie_str = r''
     token = r''
-    cookie_str = r'RK=CeFoJwNWeW; ptcz=051e37afa3649de24f3ed82ae54b9541e296e5962766414c358f1fa48b9a08f0; pgv_pvid=9728068514; ua_id=gQGYaF4GyOG8c5IFAAAAAAaN3_BaF0X1JltAsHr_zBc=; wxuin=16102799067869; rand_info=CAESIB924u4RVaN5vaHxOadjTRvAkjBoEbJs+mlDaMh8/KTJ; slave_bizuin=3910640650; data_bizuin=3910640650; bizuin=3910640650; data_ticket=RwLnhH2c1UbypTWgLm8l0pdkGoCIAa/LqO8LdKIDon9bwLAU7nhjb2c7J6aYrTNA; slave_sid=eWh5bzN4bFJRVmZFQ2F6bFp4Y3N2RlVrUEJPd2tHRnF2YlQxeGZNM0xFVkptZVBkd18xbms1RjdfVFh0Q1I5eVBwUktNSER5cExDOWp3SHh2STh1RTRsMWFoQ19laXhSaXZoQzNYSDVFVE4zdkZPMXoxUmFUNkNQMHc5U0kyZWhHTWhPT0lJQjZHaGFSV09x; slave_user=gh_6268a70afda0; xid=56d62a679f4a498de54c1a1be9fe834d; mm_lang=zh_CN; rewardsn=; wxtokenkey=777; _clck=3910640650|1|flz|0; _clsk=ipyy4f|1716352577048|1|1|mp.weixin.qq.com/weheat-agent/payload/record'
+    cookie_str = r''
     token = r'1638551384'
     query = "麦麦Studio"
     # 获取公众号的id
