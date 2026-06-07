@@ -211,3 +211,13 @@ docker run -d -p 5004:5004 wechat-platform
 3. 可以关注下作者的其他项目，欢迎 PR 和 issue
 4. 感谢赞助！如果此项目对您有帮助，请作者喝一杯奶茶~~ （开心一整天😊😊）
 5. thank you~~~
+
+## 🍔 交流群
+
+如果你对爬虫和 AI Agent 感兴趣，请加作者主页 wx 通过邀请加入群聊
+
+ps: 请加群4、17、18，人满或者过期 issue | wx 提醒
+
+| group14 | group17 | group18 |
+|:--:|:--:|:--:|
+| <img width="280" alt="group14" src="https://github.com/user-attachments/assets/4ff4e202-7fc2-42f7-910a-e12d55456bd1" /> | <img width="280" alt="group17" src="https://github.com/user-attachments/assets/6406398d-a4c7-4b08-a92c-496ea10a4440" /> | <img width="280" alt="group18" src="https://github.com/user-attachments/assets/57f6a18c-d9d0-4343-b2eb-c32e1e991115" /> |
