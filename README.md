@@ -216,8 +216,8 @@ docker run -d -p 5004:5004 wechat-platform
 
 如果你对爬虫和 AI Agent 感兴趣，请加作者主页 wx 通过邀请加入群聊
 
-ps: 请加群4、17、18，人满或者过期 issue | wx 提醒
+ps: 请加群19、20、21，人满或者过期 issue | wx 提醒
 
-| group14 | group17 | group18 |
+| group19 | group20 | group21 |
 |:--:|:--:|:--:|
-| <img width="280" alt="group14" src="https://github.com/user-attachments/assets/4ff4e202-7fc2-42f7-910a-e12d55456bd1" /> | <img width="280" alt="group17" src="https://github.com/user-attachments/assets/6406398d-a4c7-4b08-a92c-496ea10a4440" /> | <img width="280" alt="group18" src="https://github.com/user-attachments/assets/57f6a18c-d9d0-4343-b2eb-c32e1e991115" /> |
+| <img width="280" alt="group19" src="https://github.com/user-attachments/assets/c3b4cb63-eeb7-40de-8ee4-e597c77dd53e" /> | <img width="280" alt="group20" src="https://github.com/user-attachments/assets/5246820c-3e6f-4fa8-b812-056deb15dd7f" /> | <img width="280" alt="group21" src="https://github.com/user-attachments/assets/ddb73efa-34c1-4a74-b103-8fe1cdb21469" /> |
